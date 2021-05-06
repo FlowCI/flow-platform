@@ -27,7 +27,7 @@
         <junit.version>4.12</junit.version>
         <spring.version>2.1.9.RELEASE</spring.version>
         <snakeyaml.version>1.21</snakeyaml.version>
-        <jackson.version>2.10.1</jackson.version>
+        <jackson.version>2.12.1</jackson.version>
         <curator.version>4.3.0</curator.version>
         <caffeine.version>2.6.2</caffeine.version>
         <h2.version>1.4.197</h2.version>
